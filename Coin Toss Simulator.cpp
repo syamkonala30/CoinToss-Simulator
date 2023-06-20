@@ -1,10 +1,3 @@
-//  HW12Ex6_8.cpp
-//  Homework Assignment 12
-//  BMEN 1300
-//  Created by Syam on 11/29/22.
-//
-
-
 #include <iostream>
 
 using namespace std;
