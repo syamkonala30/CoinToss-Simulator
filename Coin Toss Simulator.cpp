@@ -23,7 +23,7 @@ int main() {
     {
         randomNumber = coinToss();
         if (randomNumber == 1)
-            headTail = "head";
+            headTail = "heads";
         else
             headTail = "tail";
         cout << headTail << endl;
