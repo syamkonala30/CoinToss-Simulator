@@ -25,7 +25,7 @@ int main() {
         if (randomNumber == 1)
             headTail = "heads";
         else
-            headTail = "tail";
+            headTail = "tails";
         cout << headTail << endl;
         
     }
